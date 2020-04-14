@@ -1,0 +1,5 @@
+1	Good Job!
+2	Nice!
+3	You did Well! Keep it up!
+4	Hard work never goes unrewarded, so keep doing your best!
+5	Alright!!! Keep it up and always do your best!!!
